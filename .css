@@ -1,0 +1,10 @@
+section {
+    padding-left: 15%;
+    padding-right:15%;
+}
+
+#frase {
+    color:slategray;
+    font-size:18px;
+    font-weight: bold;
+}
